@@ -12,25 +12,25 @@ const config = {
   },
   social: {
     linkedin: 'anshuman-verma-334465210',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    //twitter: 'arif_szn',
+    //mastodon: 'arifszn@mastodon.social',
+    //facebook: '',
+    //instagram: '',
+    //youtube: '', // example: 'pewdiepie'
+    //dribbble: '',
+    behance: 'https://www.behance.net/anshumanverma1',
+    //medium: 'arifszn',
+    //dev: 'arifszn',
+    stackoverflow: '15567103/anshuman-verma', // example: '1/jeff-atwood'
+    //skype: '',
+    //telegram: '',
+    //website: 'https://arifszn.com',
+    phone: '+919637925946',
+    email: 'verma77712@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1pcBDWjMe6_jZgO4gt1g1Asedm14C_hdc/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
