@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'anshuman-verma-334465210',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     facebook: '',
