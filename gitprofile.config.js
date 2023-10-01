@@ -18,7 +18,7 @@ const config = {
     //instagram: '',
     //youtube: '', // example: 'pewdiepie'
     //dribbble: '',
-    behance: 'https://www.behance.net/anshumanverma1',
+    behance: 'anshumanverma1',
     //medium: 'arifszn',
     //dev: 'arifszn',
     stackoverflow: '15567103/anshuman-verma', // example: '1/jeff-atwood'
