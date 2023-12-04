@@ -79,7 +79,7 @@ const config = {
   education: [
     {
       institution: 'IIT Bombay',
-      degree: 'Bachelors',
+      degree: 'B.Tech',
       from: '2020',
       to: '2024',
     }
