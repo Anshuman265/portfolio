@@ -90,7 +90,7 @@ const config = {
     {
       title: 'Dynamical , Symplectic And Stochastic Persepctives On Gradient-Based Optimization',
       description:
-        'This project delves into the realm of gradient-based optimization algorithms, exploring their dynamical, symplectic, and stochastic underpinnings. Through a comprehensive literature review, the project delves into the intricacies of gradient flow, symplectic geometry, stochastic optimization, and Hamiltonian dynamics. This theoretical foundation serves as the bedrock for the implementation of various gradient-based optimization algorithms, including Gradient Descent, Momentum, Nesterov\'s Accelerated Gradient Descent, Symplectic Gradient Descent, and Langevin Dynamics. These algorithms are rigorously evaluated on a suite of benchmark optimization problems, providing valuable insights into their convergence behavior and computational efficiency. By comparing and contrasting the performance of different algorithms, the project sheds light on their relative strengths and weaknesses, paving the way for informed algorithmic choices in various optimization scenarios.',
+        'This project explores gradient-based optimization algorithms from a dynamical, symplectic, and stochastic perspective. The project implements various algorithms, including Gradient Descent, Momentum, and Nesterov\'s Accelerated Gradient Descent, and evaluates their performance on benchmark optimization problems.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
