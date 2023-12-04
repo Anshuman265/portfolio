@@ -103,6 +103,7 @@ const config = {
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
+ /* 
   blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
@@ -115,7 +116,7 @@ const config = {
   hotjar: {
     id: '',
     snippetVersion: 6,
-  },
+  },*/
   themeConfig: {
     defaultTheme: 'dracula',
 
