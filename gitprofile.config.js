@@ -54,18 +54,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Sharekhan by BNP Paribas',
+      position: 'Artifical Intelligence Developer Intern',
+      from: 'May 2023',
+      to: 'July 2023',
+      companyLink: 'https://www.sharekhan.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'CTARA, IIT BOMBAY',
+      position: 'Data Analyst',
+      from: 'May 2022',
+      to: 'July 2022',
+      companyLink: 'https://www.prayog.ctara.iitb.ac.in/',
     },
   ],
   /* certifications: [
@@ -88,9 +88,9 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Dynamical , Symplectic And Stochastic Persepctives On Gradient-Based Optimization',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'This project delves into the realm of gradient-based optimization algorithms, exploring their dynamical, symplectic, and stochastic underpinnings. Through a comprehensive literature review, the project delves into the intricacies of gradient flow, symplectic geometry, stochastic optimization, and Hamiltonian dynamics. This theoretical foundation serves as the bedrock for the implementation of various gradient-based optimization algorithms, including Gradient Descent, Momentum, Nesterov\'s Accelerated Gradient Descent, Symplectic Gradient Descent, and Langevin Dynamics. These algorithms are rigorously evaluated on a suite of benchmark optimization problems, providing valuable insights into their convergence behavior and computational efficiency. By comparing and contrasting the performance of different algorithms, the project sheds light on their relative strengths and weaknesses, paving the way for informed algorithmic choices in various optimization scenarios.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
