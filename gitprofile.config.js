@@ -78,17 +78,11 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+      institution: 'IIT Bombay',
+      degree: 'Bachelors',
+      from: '2020',
+      to: '2024',
+    }
   ],
 
   // To hide the `My Projects` section, keep it empty.
@@ -184,7 +178,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/Anshuman265/portfolio"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
