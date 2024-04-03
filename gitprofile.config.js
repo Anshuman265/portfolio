@@ -91,15 +91,15 @@ const config = {
       title: 'Dynamical , Symplectic And Stochastic Persepctives On Gradient-Based Optimization',
       description:
         'This project explores gradient-based optimization algorithms from a dynamical, symplectic, and stochastic perspective. The project implements various algorithms, including Gradient Descent, Momentum, and Nesterov\'s Accelerated Gradient Descent, and evaluates their performance on benchmark optimization problems.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      imageUrl: 'https://imageio.forbes.com/specials-images/imageserve/648aaa9fac6d92c810b12f50/Why-Companies-Are-Vastly-Underprepared-For-The-Risks-Posed-By-AI/960x0.jpg?height=406&width=711&fit=bounds',
+      // link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'TheaterHub',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://imageio.forbes.com/specials-images/imageserve/648aaa9fac6d92c810b12f50/Why-Companies-Are-Vastly-Underprepared-For-The-Risks-Posed-By-AI/960x0.jpg?height=406&width=711&fit=bounds',
-      link: 'https://example.com',
+        'A react-redux app where you can search for your favorite movies and get find out all you want about it.The application has been deployed on the vercel platform',
+      imageUrl: 'https://cdn.pixabay.com/photo/2017/07/13/23/11/cinema-2502213_1280.jpg',
+      link: 'https://theatrehub.vercel.app/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
